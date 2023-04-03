@@ -7,4 +7,4 @@ I also:
 4)Describe and fit linear time-series models with delays
 5)Fit linear models with multiple target outputs
 6)Select the optimal delay via cross-validation
-To get the results run the notebook neural.ipynb
+The results of this experiment are in the notebook neural.ipynb
